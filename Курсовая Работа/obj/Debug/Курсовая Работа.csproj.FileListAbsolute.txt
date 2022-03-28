@@ -1,0 +1,110 @@
+C:\Users\Александр\Desktop\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\Курсовая Работа.exe.config
+C:\Users\Александр\Desktop\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\Курсовая Работа.exe
+C:\Users\Александр\Desktop\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\Курсовая Работа.pdb
+C:\Users\Александр\Desktop\Курсовая работа\Курсовая Работа\Курсовая Работа\obj\Debug\Курсовая Работа.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Курсовая работа\Курсовая Работа\Курсовая Работа\obj\Debug\Курсовая_Работа.Form1.resources
+C:\Users\Александр\Desktop\Курсовая работа\Курсовая Работа\Курсовая Работа\obj\Debug\Курсовая_Работа.Properties.Resources.resources
+C:\Users\Александр\Desktop\Курсовая работа\Курсовая Работа\Курсовая Работа\obj\Debug\Курсовая Работа.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\Курсовая работа\Курсовая Работа\Курсовая Работа\obj\Debug\Курсовая Работа.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Курсовая работа\Курсовая Работа\Курсовая Работа\obj\Debug\Курсовая Работа.exe
+C:\Users\Александр\Desktop\Курсовая работа\Курсовая Работа\Курсовая Работа\obj\Debug\Курсовая Работа.pdb
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\Курсовая Работа.exe.config
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\Курсовая Работа.exe
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\Курсовая Работа.pdb
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\obj\Debug\Курсовая Работа.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\obj\Debug\Курсовая_Работа.Form1.resources
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\obj\Debug\Курсовая_Работа.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\obj\Debug\Курсовая Работа.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\obj\Debug\Курсовая Работа.exe
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\obj\Debug\Курсовая Работа.pdb
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\DB.mdb
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\obj\Debug\Курсовая_Работа.AddForm.resources
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\obj\Debug\Курсовая_Работа.SearchForm.resources
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\obj\Debug\Курсовая_Работа.RegForm.resources
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\EnvDTE.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\stdole.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\obj\Debug\RdlCompile.cache
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\obj\Debug\RdlCompile.compiled
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\obj\Debug\Курсовая Работа.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\Курсовая Работа.exe.manifest
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\bin\Debug\Курсовая Работа.application
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\obj\Debug\Курсовая Работа.exe.manifest
+C:\Users\Alexander\Desktop\Разное\Новая папка (2)\Курсовая работа\Курсовая Работа\Курсовая Работа\obj\Debug\Курсовая Работа.application
